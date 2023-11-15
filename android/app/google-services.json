@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "516298141959",
+    "firebase_url": "https://meva-app-a3b1f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meva-app-a3b1f",
+    "storage_bucket": "meva-app-a3b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516298141959:android:e237814f2653e3351ad5a2",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnWrVnQHQNEouq1oTLDDIOeqMtESxnH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
